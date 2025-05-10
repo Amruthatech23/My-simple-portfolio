@@ -25,10 +25,10 @@ The portfolio includes:
 ## 📁 Folder Structure
 
 portfolio/
-│
-├── index.html # Main webpage
-├── style.css # Styling for the portfolio
-├── screenshot.png # Screenshot for README preview
+
+*  index.html # Main webpage
+*   style.css # Styling for the portfolio
+*  creenshot.png # Screenshot for README preview
 
 
 ## 🎯 What I Learned
