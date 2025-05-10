@@ -15,7 +15,7 @@ The portfolio includes:
 
 ## 📸 Screenshot
 
-![Portfolio Screenshot](./screenshot.png)
+![Portfolio Screenshot](./screenshot..png)
 
 ## 🛠 Technologies Used
 
